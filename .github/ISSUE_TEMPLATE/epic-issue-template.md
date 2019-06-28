@@ -1,7 +1,7 @@
 ---
 name: Epic issue template
 about: A template to create Epics.
-title: "[EPIC] - "
+title: ''
 labels: epic
 assignees: ''
 
